@@ -1,4 +1,4 @@
-import { TestimonialForm } from "./components/index";
+import { TestimonialForm } from "./index";
 
 function App() {
   return (

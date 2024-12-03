@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 
-export function TestimonialForm() {
+function TestimonialForm() {
   return (
     <>
       <Dialog>
@@ -28,3 +28,5 @@ export function TestimonialForm() {
     </>
   );
 }
+
+export default TestimonialForm;
